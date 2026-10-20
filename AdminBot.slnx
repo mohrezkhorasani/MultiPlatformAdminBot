@@ -1,0 +1,13 @@
+<Solution>
+  <Project Path="MultiPlatformAdminBot.Application/MultiPlatformAdminBot.Application.csproj" />
+  <Project Path="MultiPlatformAdminBot.Common/MultiPlatformAdminBot.Common.csproj" />
+  <Project Path="MultiPlatformAdminBot.CoreMe/MultiPlatformAdminBot.CoreMe.csproj" />
+  <Project Path="MultiPlatformAdminBot.Domain/MultiPlatformAdminBot.Domain.csproj" />
+  <Project Path="MultiPlatformAdminBot.Infrastructure/MultiPlatformAdminBot.Infrastructure.csproj" />
+  <Project Path="MultiPlatformAdminBot.Persistence/MultiPlatformAdminBot.Persistence.csproj" />
+  <Project Path="MultiPlatformAdminBot.Tests/MultiPlatformAdminBot.Tests.csproj" />
+  <Project Path="Platforms.Bale/Platforms.Bale.csproj" />
+  <Project Path="Platforms.Eitaa/Platforms.Eitaa.csproj" />
+  <Project Path="Platforms.Rubika/Platforms.Rubika.csproj" />
+  <Project Path="Platforms.Telegram/Platforms.Telegram.csproj" />
+</Solution>

@@ -1,0 +1,65 @@
+{
+  "nav": {
+    "dashboard": "داشبورد",
+    "admins": "مدیران",
+    "channels": "کانال‌ها",
+    "tokens": "توکن‌ها",
+    "logout": "خروج",
+    "adminPanel": "پنل مدیریت"
+  },
+  "login": {
+    "title": "خوش آمدید",
+    "subtitle": "ورود به پنل مدیریت",
+    "username": "نام کاربری",
+    "password": "رمز عبور",
+    "button": "ورود",
+    "error": "نام کاربری یا رمز عبور اشتباه است"
+  },
+  "dashboard": {
+    "title": "داشبورد",
+    "welcome": "به پنل مدیریت ربات چند پلتفرمی خوش آمدید.",
+    "selectNav": "برای مدیریت ربات، یکی از گزینه‌های منو را انتخاب کنید."
+  },
+  "common": {
+    "add": "افزودن",
+    "delete": "حذف",
+    "save": "ذخیره",
+    "cancel": "لغو",
+    "status": "وضعیت",
+    "actions": "عملیات",
+    "active": "فعال",
+    "disabled": "غیرفعال",
+    "confirmDelete": "آیا مطمئن هستید؟",
+    "noRecords": "موردی یافت نشد"
+  },
+  "admins": {
+    "title": "مدیریت ادمین‌ها",
+    "addTitle": "افزودن ادمین جدید",
+    "name": "نام و نام خانوادگی",
+    "username": "نام کاربری",
+    "password": "رمز عبور",
+    "assignedChannels": "کانال‌های مجاز",
+    "id": "شناسه",
+    "platform": "پلتفرم",
+    "targetId": "آیدی هدف"
+  },
+  "channels": {
+    "title": "مدیریت کانال‌ها",
+    "addTitle": "افزودن کانال جدید",
+    "platform": "پلتفرم",
+    "token": "توکن ربات",
+    "selectToken": "-- انتخاب توکن --",
+    "targetId": "آیدی هدف (مثل @Channel)",
+    "id": "شناسه",
+    "tokenId": "شناسه توکن"
+  },
+  "tokens": {
+    "title": "مدیریت توکن‌ها",
+    "addTitle": "افزودن توکن جدید",
+    "platform": "پلتفرم",
+    "tokenValue": "مقدار توکن",
+    "explain": "توضیحات (اختیاری)",
+    "id": "شناسه",
+    "explainCol": "توضیحات"
+  }
+}

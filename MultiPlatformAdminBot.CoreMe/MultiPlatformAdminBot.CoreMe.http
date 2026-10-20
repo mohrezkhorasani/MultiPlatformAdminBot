@@ -1,0 +1,6 @@
+@MultiPlatformAdminBot.CoreMe_HostAddress = http://localhost:5084
+
+GET {{MultiPlatformAdminBot.CoreMe_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,55 @@
+## .NET build artifacts
+bin/
+obj/
+*.user
+.vs/
+*.suo
+*.DotSettings.user
+
+## IDE
+.vscode/
+.idea/
+
+## Published output
+publish/
+out/
+
+## Uploaded media & runtime images
+**/wwwroot/uploads/*
+!**/wwwroot/uploads/.gitkeep
+MultiPlatformAdminBot.CoreMe/*.jpg
+MultiPlatformAdminBot.CoreMe/wwwroot/*.jpg
+MultiPlatformAdminBot.CoreMe/*.png
+MultiPlatformAdminBot.CoreMe/wwwroot/*.png
+
+## Node
+node_modules/
+admin-panel/node_modules/
+npm-debug.log*
+
+## Local secrets / user-specific config
+appsettings.*.Local.json
+*.pfx
+secrets/
+
+## Environment files (.env)
+.env
+.env.*
+*.env
+!.env.example
+
+## PHP server-side config (live tokens/credentials; keep config.example.php)
+php-scripts/config.php
+
+## Python helper scripts (one-off migration helpers)
+__pycache__/
+*.pyc
+
+## OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Local runtime logs
+MultiPlatformAdminBot.CoreMe/logs/
+logs/

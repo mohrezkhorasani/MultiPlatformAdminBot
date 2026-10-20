@@ -1,0 +1,65 @@
+{
+  "nav": {
+    "dashboard": "Dashboard",
+    "admins": "Admins",
+    "channels": "Channels",
+    "tokens": "Tokens",
+    "logout": "Logout",
+    "adminPanel": "Admin Panel"
+  },
+  "login": {
+    "title": "Welcome Back",
+    "subtitle": "Sign in to Admin Panel",
+    "username": "Username",
+    "password": "Password",
+    "button": "Sign In",
+    "error": "Invalid username or password"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "welcome": "Welcome to the Multi-Platform Admin Bot Panel.",
+    "selectNav": "Select an option from the sidebar to manage your bot."
+  },
+  "common": {
+    "add": "Add",
+    "delete": "Delete",
+    "save": "Save",
+    "cancel": "Cancel",
+    "status": "Status",
+    "actions": "Actions",
+    "active": "Active",
+    "disabled": "Disabled",
+    "confirmDelete": "Are you sure?",
+    "noRecords": "No records found"
+  },
+  "admins": {
+    "title": "Admin Management",
+    "addTitle": "Add New Admin",
+    "name": "Full Name",
+    "username": "Username",
+    "password": "Password",
+    "assignedChannels": "Assigned Channels",
+    "id": "ID",
+    "platform": "Platform",
+    "targetId": "Target ID"
+  },
+  "channels": {
+    "title": "Channel Management",
+    "addTitle": "Add New Channel",
+    "platform": "Platform",
+    "token": "Bot Token",
+    "selectToken": "-- Select Token --",
+    "targetId": "Target ID (e.g. @Channel)",
+    "id": "ID",
+    "tokenId": "Token ID"
+  },
+  "tokens": {
+    "title": "Bot Token Management",
+    "addTitle": "Add New Token",
+    "platform": "Platform",
+    "tokenValue": "Token Value",
+    "explain": "Description (Optional)",
+    "id": "ID",
+    "explainCol": "Description"
+  }
+}
